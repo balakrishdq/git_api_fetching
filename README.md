@@ -1,10 +1,11 @@
+![preview](https://user-images.githubusercontent.com/49632776/207884684-09a151c6-3368-44f8-8a21-ef841a9c9eac.png)
 # api_test
 
 A new Flutter project.
 
 In this project the sign up details are stored in a local device using sqLite and the api for the most starred repositories are listed by tile view.
 
-For reference the screenshots of the app given below  
+For reference the screenshots of the app given below and the model also attached
 
 ![Screenshot_20221215_194301](https://user-images.githubusercontent.com/49632776/207883894-34c6d185-87bf-40ab-b58d-490684d50505.jpg)
 ![Screenshot_20221215_194235](https://user-images.githubusercontent.com/49632776/207883931-aa1c5e9e-ef0b-4d78-8e8e-247391a57497.jpg)
